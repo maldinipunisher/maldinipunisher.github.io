@@ -3,12 +3,14 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "875795605680c7a095f7846ca8a6755b",
+  "assets/AssetManifest.json": "1884ea78a2eb038590eb1015ece78824",
 "assets/assets/images/about.png": "c1a84e3440464e2c84abe8b7287ad392",
+"assets/assets/images/covidapp.png": "884f83461a1666d70476a648882b593c",
 "assets/assets/images/css.png": "d51aae4f253df1b627441b2f3b6e0ce9",
 "assets/assets/images/firebase.png": "dd60f34eccd1b45e40565561c8a66c6f",
 "assets/assets/images/flutter.png": "73f1c46faac3ee4169486f634a929515",
 "assets/assets/images/html.png": "96edbc3e78456b5cd548ba6fe92e0b5e",
+"assets/assets/images/moviepro.jpg": "30a44f27c1a8f40afcf79f7420204ef9",
 "assets/assets/images/pattern_water.png": "08fc6921aa8d01c01a4589484e6d8f42",
 "assets/assets/images/profile_pic.jpeg": "ed9fc3b2cff444ffa7c69a18547605a9",
 "assets/assets/images/unity.png": "f12f78a0aedb8ad18de2eb3a23234943",
@@ -20,9 +22,10 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "f456b2b9c2226cfbbb5dc00079ec5579",
-"/": "f456b2b9c2226cfbbb5dc00079ec5579",
-"main.dart.js": "433434d8527730238c7913facd77f8dd",
+"images/splash.png": "8d2456e2f13a00cddd6646d5ae8f1375",
+"index.html": "1bcf1d21a841684dd690b0355bae9af8",
+"/": "1bcf1d21a841684dd690b0355bae9af8",
+"main.dart.js": "4768858bd210df50fce45b37edbd4567",
 "manifest.json": "f56640b39255c1f19f9cbc03eb6872a4",
 "version.json": "23b67aa0b3185bf629d2f5e67ec4e986"
 };
